@@ -170,7 +170,7 @@ export class _Blank extends React.Component {
       />
       <Icon
         iconFont="Eva Design Icons"
-        name="star"
+        name="more-horizontal"
         height={20}
         width={20}
         style={{
@@ -240,7 +240,7 @@ export class _Blank extends React.Component {
       />
       <Icon
         iconFont="Eva Design Icons"
-        name="star"
+        name="more-horizontal-outline"
         height={20}
         width={20}
         style={{
